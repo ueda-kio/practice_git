@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/* clearfix用 */
+.clearfix::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.wrapper {
+  width: 400px;
+  margin: 0 auto;
+}
+.top {
+  height: 100px;
+  background-color: #141f40;
+}
+.middle__left {
+  width: 150px;
+  height: 250px;
+  float: left;
+  background-color: #80bfa8;
+}
+.middle__right {
+  width: 250px;
+  height: 250px;
+  float: left;
+  background-color: #8c2727;
+}
+.bottom {
+  height: 100px;
+  background-color: #d98d30;
+}
