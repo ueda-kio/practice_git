@@ -1,0 +1,24 @@
+{
+  "name": "practice_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ueda-kio/practice_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ueda-kio/practice_git/issues"
+  },
+  "homepage": "https://github.com/ueda-kio/practice_git#readme",
+  "dependencies": {
+    "google-auth-library": "^7.3.0",
+    "googleapis": "^81.0.0"
+  }
+}
